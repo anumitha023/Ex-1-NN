@@ -37,6 +37,7 @@ STEP 5:Normalizing the data<BR>
 STEP 6:Splitting the data into test and train<BR>
 
 ##  PROGRAM:
+TYPE YOUR CODE HERE
 ```
 ``
 import pandas as pd
@@ -79,6 +80,8 @@ print("Lenght of X_test ",len(X_test))
 ```
 
 ## OUTPUT:
+SHOW YOUR OUTPUT HERE
+
 Dataset:
 
 <img width="1035" height="347" alt="Screenshot 2025-08-26 081830" src="https://github.com/user-attachments/assets/69c6bd56-b4c6-4180-b953-9920e853c96a" />
